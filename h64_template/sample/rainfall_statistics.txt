@@ -1,0 +1,6 @@
+Rainfall Statistics for the defined period and AOI:
+----------------------
+Overall Mean Rainfall:          6.90 mm
+Median Rainfall:                2.03 mm
+Standard Deviation of Rainfall: 15.95 mm
+Skewness of Rainfall:           6.24
